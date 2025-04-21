@@ -12,6 +12,10 @@ This project presents a deep learning pipeline for video classification, focusin
 
 ---
 
+## Results
+![0 86](https://github.com/user-attachments/assets/7a921c0e-952d-42eb-9a18-6d7ba79c0a3a)
+
+
 ## 📁 Architecture Overview
 
 ```text
